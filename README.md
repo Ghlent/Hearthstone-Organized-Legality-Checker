@@ -1,1 +1,3 @@
-# Hearthstone-Organized-Legality-Checker
+# Hearthstone Organized Legality Checker
+
+Remember to create a description
